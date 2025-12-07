@@ -26,11 +26,15 @@ I am an Information Systems student eager to improve myself in software and info
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML/CSS" />
 
-**IT & Hardware**
+**IT & Infrastructure**
 <br>
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="MSSQL" />
 <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+<img src="https://img.shields.io/badge/Network%20Engineering-336699?style=for-the-badge&logo=cisco&logoColor=white" alt="Network Engineering" />
+<img src="https://img.shields.io/badge/Virtualization-607D8B?style=for-the-badge&logo=vmware&logoColor=white" alt="Virtualization" />
 <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server" />
+<img src="https://img.shields.io/badge/System_Admin-424242?style=for-the-badge&logo=linux&logoColor=white" alt="SysAdmin" />
+
 
 </div>
 
