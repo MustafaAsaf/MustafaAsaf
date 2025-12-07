@@ -72,15 +72,16 @@ I am an Information Systems student eager to improve myself in software and info
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=MustafaAsaf&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaAsaf&theme=dark&hide_border=true&layout=compact" height="180" alt="Top Languages" />
+![](https://github-readme-stats.vercel.app/api?username=MustafaAsaf&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=MustafaAsaf&theme=blue_navy&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaAsaf&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<br>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MustafaAsaf&theme=blue_navy&no-frame=false&no-bg=true&margin-w=4)
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=MustafaAsaf&theme=dark&hide_border=true" alt="Streak Stats" />
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<br>
 
-<img src="https://visitcount.itsvg.in/api?id=MustafaAsaf&icon=0&color=0" alt="Visitor Count" />
 
 </div>
